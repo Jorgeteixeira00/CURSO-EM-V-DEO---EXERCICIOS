@@ -8,4 +8,4 @@ tangente = math.tan(math.radians(ang))
 
 print(f'O Seno de {ang} é:{seno:.2f}')
 print(f'O Cosseno de {ang} é:{cosseno:.2f}')
-print(f'A Tangente de {ang} é:{tangente:.2f}')
+print(f'A Tangente de {ang} é:{tangente:.2f}') 

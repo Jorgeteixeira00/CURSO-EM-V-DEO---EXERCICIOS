@@ -5,7 +5,7 @@
 # - 30 até 40: Obesidade
 # - Acima de 40: Obesidade Mórbida
 
-altura = float(input('Digite sua altura:'))
+altura = float(input('Digite sua altura:')) 
 peso = float(input('Digite seu peso:'))
 imc = peso / altura ** 2
 print('Seu IMC é:{:.2f}'.format(imc))

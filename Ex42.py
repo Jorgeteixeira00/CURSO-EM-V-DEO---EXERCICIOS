@@ -3,7 +3,7 @@
 # - ISÓSCELES: dois lados iguais, um diferente
 # - ESCALENO: todos os lados diferentes
 
-r1 = float(input('Primeiro segmento:'))
+r1 = float(input('Primeiro segmento:')) 
 r2 = float(input('Segundo segmento:'))
 r3 = float(input('Terceiro segmento:'))
 

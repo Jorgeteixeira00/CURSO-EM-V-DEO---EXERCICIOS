@@ -45,5 +45,3 @@ elif jogador == 2:
         print('EMPATE')
 else:
     print('OPÇÃO INVALIDA, TENTE NOVAMENTE!')
-print(jogador)
-print(computador)

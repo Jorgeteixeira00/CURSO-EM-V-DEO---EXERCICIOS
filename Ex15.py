@@ -12,5 +12,5 @@ Total de dias alugado:{}
 Total de Km rodados:{}
 Preço por km rodados:{:.2f} reais
 Preço por dias alugados:{:.2f} reais
-Preço total:{:.2} reais
-'''.format(dias,km,preço_km,preço_dia,preço_total))
+Preço total:{:.2f} reais
+'''.format(dias,km,preço_km,preço_dia,preço_total)) 

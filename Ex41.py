@@ -3,7 +3,7 @@
 # - Até 14 anos: INFANTIL
 # - Até 19 anos: JÚNIOR
 # - Até 25 anos: SÊNIOR
-# - Acima de 25 anos: MASTER
+# - Acima de 25 anos: MASTER 
 from datetime import date
 atual = date.today().year
 nasc = int(input('Digite seu ano de nascimento:'))

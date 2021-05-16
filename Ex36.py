@@ -5,7 +5,7 @@
 
 valor = float(input('Digite o valor da casa:'))
 salario = float(input('Digite seu sálario:'))
-anos = float(input('Em quantos anos você vai pagar a casa:'))
+anos = float(input('Em quantos anos você vai pagar a casa:')) 
 prestação = anos * 12
 prestao_mensal = valor / prestação
 excesso = salario * 30 / 100

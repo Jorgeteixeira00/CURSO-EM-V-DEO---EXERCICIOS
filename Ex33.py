@@ -1,7 +1,7 @@
 # Exercício Python 033: Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
 n1 = int(input('1° primeiro número:'))
 n2 = int(input('2° segundo número:'))
-n3 = int(input('3° terceiro número:'))
+n3 = int(input('3° terceiro número:')) 
 
 maior = n1
 if n2 > n1 and n2 > n3:

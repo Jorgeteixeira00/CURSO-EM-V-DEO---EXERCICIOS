@@ -7,4 +7,4 @@ a3 = input('Aluno 3:')
 a4 = input('Aluno 4:')
 sorteio = [a1,a2,a3,a4]
 escolhido = choice(sorteio)
-print(f'O escolhido foi:{escolhido}')
+print(f'O escolhido foi:{escolhido}') 

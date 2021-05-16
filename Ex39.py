@@ -12,7 +12,7 @@ nasc = int(input('Digite seu ano de nascimento:'))
 idade = atual - nasc
 
 if idade == 18:
-    print('Você tem {} anos!'.format(idade))
+    print('Você tem {} anos!'.format(idade)) 
     print('Esta na hora de se alistar!')
 elif idade > 18:
     falta = idade - 18

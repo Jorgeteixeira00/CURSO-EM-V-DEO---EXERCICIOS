@@ -1,6 +1,6 @@
-#Exercício Python 004: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+#Exercício Python 004: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele. 
 
-frase =str(input('Digite algo:'))
+frase = input('Digite algo:')
 print('O tipo primitivo desse valo é:',type(frase))
 print('Só tem espaços?', frase.isspace())
 print('É um número?', frase.isalnumeric())

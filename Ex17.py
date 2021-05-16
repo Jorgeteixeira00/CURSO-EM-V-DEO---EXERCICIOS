@@ -4,4 +4,4 @@ cO = float(input('Digite o cateto oposto:'))
 cA = float(input('Digite o cateto adjascente:'))
 
 hip = cO ** 2 + cA ** 2
-print(f'A hipotenusa dos catetos é:{sqrt(hip):.2f}')
+print(f'A hipotenusa dos catetos é:{sqrt(hip):.2f}') 

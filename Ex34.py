@@ -10,4 +10,4 @@ if salario <=1250:
 else:
     aumeto = salario * 10 / 100
     novo_salario = salario + aumento
-    print('Seu novo salário com um ajuste de 10% fica R$:{}'.format(novo_salario))
+    print('Seu novo salário com um ajuste de 10% fica R$:{}'.format(novo_salario)) 

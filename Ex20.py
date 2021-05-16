@@ -8,4 +8,4 @@ a4 = input('Quarto aluno:')
 lista = [a1,a2,a3,a4]
 ordem = shuffle(lista)
 print('A ordem da apresentação séra?')
-print(lista)
+print(lista) 

@@ -11,7 +11,7 @@ print('''
 [3] Em 2x no cartão
 [4] 3x ou mais no cartão
 ''')
-opcão = int(input('Digite sua opção:'))
+opcão = int(input('Digite sua opção:')) 
 
 if opcão == 1:
     desconto = valor - (valor * 10 / 100)
